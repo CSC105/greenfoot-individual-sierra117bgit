@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=target
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ aim\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=target()
+comment3.params=
+comment3.target=void\ show()
+comment4.params=
+comment4.target=void\ moveUp()
+comment5.params=
+comment5.target=void\ moveDown()
+comment6.params=
+comment6.target=void\ moveLeft()
+comment7.params=
+comment7.target=void\ moveRight()
+comment8.params=
+comment8.target=void\ shoot()
+numComments=9
